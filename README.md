@@ -1,4 +1,3 @@
-# python-calculator
 # Python Calculator
 
 This is a simple calculator project developed using Python.
